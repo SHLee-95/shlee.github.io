@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Political Science, University at Buffalo, State University of New York, 2029 (expected)
+* M.A. in Political Science, Sungkyunkwan University, 2022
+* B.P.S. in International Relations, Kyonggi University, 2019
 
 Work experience
 ======
