@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Science, University at Buffalo, State University of New York, 2029 (expected)
+* Ph.D in Political Science, University at Buffalo, State University of New York (In Progress, Expected Completion: 2029)
 * M.A. in Political Science, Sungkyunkwan University, 2022
 * B.P.S. in International Relations, Kyonggi University, 2019
 
