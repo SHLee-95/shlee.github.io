@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Not In My Front Yard?<br />2026 International Studies Association Annual Conference; Columbus, OH, USA",
+    39.9622601,
+    -83.0007065
   ]
 ];
